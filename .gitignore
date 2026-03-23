@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Data (generated at runtime)
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# PDF (do not upload)
+*.pdf
+
+# IDE
+.vscode/
+.idea/
